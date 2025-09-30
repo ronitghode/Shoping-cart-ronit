@@ -14,3 +14,4 @@ describe('GET /api/products', () => {
     expect(p).toHaveProperty('imageUrl');
   });
 });
+
