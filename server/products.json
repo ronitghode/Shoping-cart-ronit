@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Minimal Wooden Chair",
+    "price": 49.99,
+    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "p2",
+    "name": "Modern Lamp",
+    "price": 29.99,
+    "imageUrl": "https://ikiru.in/cdn/shop/products/buy-table-lamp-mango-wood-pebble-design-table-lamp-for-living-room-and-bedroom-or-night-table-lamp-by-kp-lamps-store-on-ikiru-online-store-1.jpg?v=1739199031&width=2000?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "p3",
+    "name": "Ceramic Vase",
+    "price": 19.99,
+    "imageUrl": "https://i.etsystatic.com/27611321/r/il/5b57e9/4012949285/il_fullxfull.4012949285_5k9x.jpg?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "p5",
+    "name": "Wall Art Print",
+    "price": 39.99,
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "p7",
+    "name": "Leather Journal",
+    "price": 34.99,
+    "imageUrl": "https://i.etsystatic.com/14324118/r/il/0dcf45/2517923186/il_570xN.2517923186_2i9n.jpg?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "p9",
+    "name": "Coffee Mug Set (x4)",
+    "price": 22.99,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0560/0198/6604/products/20210928_163852-e1632905680223_480x480.jpg?v=1680769291?w=600&h=400&fit=crop"
+  }
+]
